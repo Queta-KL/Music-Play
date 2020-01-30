@@ -10,8 +10,13 @@ There are two examples:
 
 ## input
 A numbered musical notation (like Freude.txt).
+
 The first line includes two numbers that is the key (1 -- C4, 2 -- B4, 3-- E4) and BPM (beats per minute).
-The second line includes several numbers that beats per bar (metre). ([3 1 2 1] -- [f p mf p] as 4-4 metre)
+
+The second line includes several numbers that beats per bar (metre). 
+
+([3 1 2 1] -- [f p mf p] as 4-4 metre)
+([3 1 1 2 1 1] -- [f p p mf p p] as 8-6 metre)
 
 "Freude.txt":
 ```cmd
