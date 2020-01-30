@@ -5,7 +5,7 @@ But you need to provide a text file as the numbered musical notation, which coul
 
 There are two examples:
 * Freude.txt (Ode to Joy / An die Freude)
-* InTheSpring.txt (A popular song by Feng Wang)
+* InTheSpring.txt (A popular song in *Belief Flies in the Wind (2009)* by Wang Feng, a Chinese rock musician and composer.)
 
 
 ## input
