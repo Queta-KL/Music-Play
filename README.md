@@ -1,11 +1,19 @@
 # Music-Play
 It is used for play numbered musical notation.
+But you need to provide a text file as the numbered musical notation, which could be not so convenient.
+
+
+There are two examples:
+* Freude.txt (Ode to Joy / An die Freude)
+* InTheSpring.txt (A popular song by Feng Wang)
+
+
 ## input
 A numbered musical notation (like Freude.txt).
 The first line includes two numbers that is the key (1 -- C4, 2 -- B4, 3-- E4) and BPM (beats per minute).
 The second line includes several numbers that beats per bar (metre). ([3 1 2 1] -- [f p mf p] as 4-4 metre)
 
-Freude.txt:
+"Freude.txt":
 ```cmd
 1 120
 3 1 2 1
@@ -75,3 +83,6 @@ Freude.txt:
 1 2
 
 ```
+
+## Output
+a wav file.
