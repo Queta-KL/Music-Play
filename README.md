@@ -7,6 +7,7 @@ There are two examples:
 * Freude.txt (*Ode to Joy* / *An die Freude*)
 * InTheSpring.txt (A popular song in *Belief Flies in the Wind (2009)* by Wang Feng, a Chinese rock musician and composer)
 
+You might need **ffmpeg** (https://ffmpeg.zeranoe.com/builds/) for packge of **pydub**.
 
 ## input
 A numbered musical notation (like Freude.txt).
