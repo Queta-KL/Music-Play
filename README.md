@@ -7,7 +7,7 @@ There are two examples:
 * Freude.txt (*Ode to Joy* / *An die Freude*)
 * InTheSpring.txt (A popular song in *Belief Flies in the Wind (2009)* by Wang Feng, a Chinese rock musician and composer)
 
-You might need **ffmpeg** [link](https://ffmpeg.zeranoe.com/builds/) for packge of **pydub**.
+You might need **ffmpeg** ([link](https://ffmpeg.zeranoe.com/builds/)) for packge of **pydub**.
 
 ## input
 A numbered musical notation (like Freude.txt).
@@ -26,6 +26,11 @@ The second line includes several numbers that beats per bar (metre).
 * ([3 1 2 1] -- [f p mf p] as 4-4 metre)
 * ([3 1 1 2 1 1] -- [f p p mf p p] as 8-6 metre)
 
+
+## Output
+wav + mp3 file.
+
+## Example of Freude.txt
 "Freude.txt":
 ```cmd
 1 120
@@ -96,6 +101,3 @@ The second line includes several numbers that beats per bar (metre).
 1 2
 
 ```
-
-## Output
-a wav file.
